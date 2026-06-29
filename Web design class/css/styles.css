@@ -245,7 +245,6 @@ footer a {
         background-color: #f6eee4;
     }
     
-    /* Task 11: Large Desktop Grid */
     .grid {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
