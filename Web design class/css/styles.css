@@ -216,8 +216,7 @@ footer a {
     #info ul {
         margin-left: 5%;
     }
-    
-    /* Task 10: Desktop Grid */
+
     .grid {
         grid-template-columns: 1fr 1fr 1fr;
         grid-gap: 30px;
