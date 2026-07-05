@@ -192,6 +192,12 @@ footer a {
     aside {
         grid-column: 1 / span 2;
     }
+
+    /* Tablet Viewport: Style rules for form */
+    form {
+        width: 70%;
+        margin: 0px auto;
+    }
 }
 
 /* Media Query for Desktop Viewport */
@@ -262,6 +268,11 @@ footer a {
 
     tr:nth-child(odd) {
         background-color: #deccba;
+    }
+
+    /* Desktop Viewport: Style rules for form */
+    form {
+        width: auto;
     }
 }
 
