@@ -23,17 +23,17 @@ function menu() {
 
 function ans1() {
     heading.style.display = "block";
-    answer.textContent = "Return the baby to where it was found and observe it from a distance to see if the mother returns. If it is injured, cold, or the mother does not return after a reasonable time, contact a rehabilitator.";
+    answer.textContent = "";
 }
 function ans2() {
     heading.style.display = "block";
-    answer.textContent = "Signs of rabies can include abnormal behavior, aggression, uncoordinated movements, or excessive salivation. However, only a professional can properly diagnose rabies. Keep your distance and contact animal control.";
+    answer.textContent = "";
 }
 function ans3() {
     heading.style.display = "block";
-    answer.textContent = "No, birds have a poor sense of smell. If the baby is uninjured, you can safely return it to the nest. The parents will not abandon it just because it has been touched by a human.";
+    answer.textContent = "";
 }
 function ans4() {
     heading.style.display = "block";
-    answer.textContent = "You can volunteer by filling out the application form on our Contact Us page, or by calling our main office during business hours to learn about upcoming orientation sessions.";
+    answer.textContent = "";
 }
