@@ -27,7 +27,7 @@ img {
     display: block;
 }
 
-.tab-desk {
+.tab-desk, .desktop, #nav-links {
     display: none;
 }
 
@@ -192,7 +192,7 @@ footer a {
         display: block;
     }
     
-    .mobile {
+    .mobile, .mobile-nav {
         display: none;
     }
     
