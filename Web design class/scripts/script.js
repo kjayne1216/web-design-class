@@ -35,5 +35,5 @@ function ans3() {
 }
 function ans4() {
     heading.style.display = "block";
-    answer.textContent = "";
+    answer.textContent = "Step back and observe the situation for a few minutes. Wait to see if a parent arrives. If the animal is in immediate danger of a predator or is in the road, remove the baby and bring to a rescue center.";
 }
